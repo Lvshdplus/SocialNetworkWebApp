@@ -1,0 +1,22 @@
+{
+  "name": "project-microblogging-and-streaming-social-network-team14",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "cd api && npm install && cd ../client && npm install && npm run build",
+    "start": "cd api && npm start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cis557/project-microblogging-and-streaming-social-network-team14.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cis557/project-microblogging-and-streaming-social-network-team14/issues"
+  },
+  "homepage": "https://github.com/cis557/project-microblogging-and-streaming-social-network-team14#readme"
+}

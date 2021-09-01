@@ -1,0 +1,158 @@
+input[type="file"] {
+  display: none;
+}
+
+ul.no-bullets {
+  list-style-type: none;
+}
+
+.media-icon {
+  margin: 5px 5px 5px 0px;
+  font-size: 200%;
+  cursor: pointer;
+}
+
+.placeHolder {
+  margin-left: 5%;
+  margin-right: 5%;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: bold;
+  color: #9F9F9F
+}
+
+.name {
+  margin-left: 10%;
+  font-size: 20px;
+  font-family: Inter;
+  font-weight: bold;
+  color: #9F9F9F
+}
+
+.postArea {
+  display: flex;
+  flex-direction: column; 
+  justify-content: center;
+  align-items: center;
+}
+
+.postCard {
+  width: 80%;
+  margin-bottom: 10px;
+}
+
+#mainBoard {
+  width: 60%;
+  margin-top: 2%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+.list {
+  /* Remove default list styling */
+  list-style-type: none;
+  padding: 0;
+  margin: 20px;
+}
+
+.listItem {
+  margin: 10px;
+}
+
+.msg-sider {
+  width: 40%;
+}
+
+.message-row {
+  display: flex;
+  max-height: 100vh;
+}
+
+.message-column-left {
+  width: 25%;
+}
+
+.message-column-right {
+  width: 75%;
+}
+
+.post-dropdown {
+  font-size: 20px;
+}
+
+.icons-list {
+  margin-right: 0px;
+  width: 150px;
+  display: inline-flex;
+  flex-direction: row;
+  justify-content: space-between;
+}
+
+.comment-author-name {
+  font-size: 14px;
+  font-family: Arial;
+  font-weight: Bold;
+  color: #2E3A59;
+}
+
+.comment-value {
+  font-size: 14px;
+  font-family: Arial;
+  font-weight: Medium;
+  color: black;
+}
+
+.menu {
+  width: 30%;
+}
+
+.avatar-name {
+  width: 130px;
+}
+
+.Button {
+  margin-left: 10px;
+  width: 100px;
+}
+
+.contact-card {
+  width: 60%;
+}
+
+.contact-card-inside {
+  display: flex;
+}
+
+#profileBoard {
+  width: 40%;
+  margin-top: 5%;
+  margin-left: 25%;
+  margin-right: 20%;
+  font-size: 20px;
+  font-family: Arial;
+  font-weight: Bold;
+  color: #2E3A59;
+}
+
+#videoElement {
+  transform: rotateY(180deg);
+  -webkit-transform:rotateY(180deg); /* Safari and Chrome */
+  -moz-transform:rotateY(180deg); /* Firefox */
+}
+
+.local-participant {
+  width: 100%;
+  overflow: hidden;
+}
+
+.live-element {
+  display: inline-block;
+  overflow: hidden;
+  margin-right: 30px;
+  height: 500px;
+}
+
+.chatContents {
+  height: 400px;
+  overflow-y:auto;
+}

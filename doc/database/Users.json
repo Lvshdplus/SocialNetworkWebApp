@@ -1,0 +1,109 @@
+[{
+  "_id": {
+    "$oid": "60900fc8f92665e135eda7a4"
+  },
+  "username": "Alex",
+  "password": "cis",
+  "profileId": "profile-Alex",
+  "posts": [
+    {
+      "postId": "post-Alex-1620054105057"
+    },
+    {
+      "postId": "post-Alex-1620054222882"
+    }
+  ],
+  "followers": [],
+  "followees": [
+    "Bob",
+    "Cara"
+  ],
+  "block": [],
+  "hiddenPosts": [],
+  "lockout": {
+    "lockCount": 0,
+    "locked": false,
+    "lockTime": 1620308157217
+  },
+  "messages": [],
+  "deactivated": false
+},{
+  "_id": {
+    "$oid": "60900fd7f92665e135eda7a5"
+  },
+  "username": "Bob",
+  "password": "cis",
+  "profileId": "profile-Bob",
+  "posts": [
+    {
+      "postId": "post-Bob-1620054158424"
+    }
+  ],
+  "followers": [
+    "Alex"
+  ],
+  "followees": [
+    "Cara"
+  ],
+  "block": [],
+  "hiddenPosts": [],
+  "lockout": {
+    "lockCount": 0,
+    "locked": false,
+    "lockTime": 1620310394317
+  },
+  "messages": [],
+  "deactivated": false
+},{
+  "_id": {
+    "$oid": "60900feaf92665e135eda7a6"
+  },
+  "username": "Cara",
+  "password": "cis",
+  "profileId": "profile-Cara",
+  "posts": [
+    {
+      "postId": "post-Cara-1620054195743"
+    },
+    {
+      "postId": "post-Cara-1620054266749"
+    }
+  ],
+  "followers": [
+    "Alex",
+    "Bob"
+  ],
+  "followees": [],
+  "block": [],
+  "hiddenPosts": [],
+  "lockout": {
+    "lockCount": 0,
+    "locked": false,
+    "lockTime": 1620310404785
+  },
+  "messages": [],
+  "deactivated": false
+},{
+  "_id": {
+    "$oid": "6093f5160bf5e0c347b853f5"
+  },
+  "username": "Dan",
+  "password": "cis",
+  "profileId": "profile-Dan",
+  "posts": [
+    {
+      "postId": "post-Dan-1620310349872"
+    }
+  ],
+  "followers": [],
+  "followees": [],
+  "block": [],
+  "hiddenPosts": [],
+  "lockout": {
+    "lockCount": 0,
+    "locked": false,
+    "lockTime": 1620310344342
+  },
+  "messages": [],
+  "deactivated": true
+}]

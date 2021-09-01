@@ -1,0 +1,94 @@
+[{
+  "_id": {
+    "$oid": "60901059f92665e135eda7a7"
+  },
+  "postId": "post-Alex-1620054105057",
+  "author": "Alex",
+  "timeStamp": 1620054105057,
+  "content": {
+    "text": "I'm Alex, this is the 1st post.",
+    "image": null
+  },
+  "comments": []
+},{
+  "_id": {
+    "$oid": "6090108ef92665e135eda7a8"
+  },
+  "postId": "post-Bob-1620054158424",
+  "author": "Bob",
+  "timeStamp": 1620054158424,
+  "content": {
+    "text": "I'm Bob, this is the 2nd post, a cute cat.",
+    "image": "image-Bob-1620054158424"
+  },
+  "comments": []
+},{
+  "_id": {
+    "$oid": "609010b3f92665e135eda7a9"
+  },
+  "postId": "post-Cara-1620054195743",
+  "author": "Cara",
+  "timeStamp": 1620054195743,
+  "content": {
+    "text": "I'm Cara, this is the 3rd post, a cute dog.",
+    "image": "image-Cara-1620054195743"
+  },
+  "comments": [
+    {
+      "commentId": "post-Cara-1620054195743-comment-Alex-1620282177506",
+      "commentAuthor": "Alex",
+      "commentValue": "I wanna a dog too"
+    },
+    {
+      "commentId": "post-Cara-1620054195743-comment-Cara-1620282158908",
+      "commentAuthor": "Cara",
+      "commentValue": "thank you friends"
+    },
+    {
+      "commentId": "post-Cara-1620054195743-comment-Bob-1620282147948",
+      "commentAuthor": "Bob",
+      "commentValue": "comment-2, yeah, quite cute"
+    },
+    {
+      "commentId": "post-Cara-1620054195743-comment-Alex-1620282106844",
+      "commentAuthor": "Alex",
+      "commentValue": "comment-1, cute dog, I love it."
+    }
+  ]
+},{
+  "_id": {
+    "$oid": "609010cef92665e135eda7aa"
+  },
+  "postId": "post-Alex-1620054222882",
+  "author": "Alex",
+  "timeStamp": 1620054222882,
+  "content": {
+    "text": "I'm Alex, this is the 4th post. I love panda!",
+    "image": "image-Alex-1620054222882"
+  },
+  "comments": []
+},{
+  "_id": {
+    "$oid": "609010faf92665e135eda7ab"
+  },
+  "postId": "post-Cara-1620054266749",
+  "author": "Cara",
+  "timeStamp": 1620054266749,
+  "content": {
+    "text": "I'm Cara, the 5th post: You win, panda is the cutest.",
+    "image": null
+  },
+  "comments": []
+},{
+  "_id": {
+    "$oid": "6093f94dc7ec23c4de180456"
+  },
+  "postId": "post-Dan-1620310349872",
+  "author": "Dan",
+  "timeStamp": 1620310349872,
+  "content": {
+    "text": "Dan's post",
+    "image": null
+  },
+  "comments": []
+}]

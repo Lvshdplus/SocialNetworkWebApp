@@ -1,0 +1,37 @@
+[{
+  "_id": {
+    "$oid": "6093b6251b5750026b517b49"
+  },
+  "profileId": "profile-Alex",
+  "registrationDate": 1620054105057,
+  "safeQuestion": "Which city do you live in?",
+  "safeAnswer": "Shanghai",
+  "avatar": null
+},{
+  "_id": {
+    "$oid": "6093b6851b5750026b517b4a"
+  },
+  "profileId": "profile-Bob",
+  "registrationDate": 1620054158424,
+  "safeQuestion": "What is your major?",
+  "safeAnswer": "CS",
+  "avatar": null
+},{
+  "_id": {
+    "$oid": "6093b6991b5750026b517b4b"
+  },
+  "profileId": "profile-Cara",
+  "registrationDate": 1620054195743,
+  "safeQuestion": "What is your major?",
+  "safeAnswer": "CS",
+  "avatar": null
+},{
+  "_id": {
+    "$oid": "6093f5160bf5e0c347b853f4"
+  },
+  "profileId": "profile-Dan",
+  "registrationDate": 1620309270234,
+  "safeQuestion": "What is your major?",
+  "safeAnswer": "CS",
+  "avatar": null
+}]
