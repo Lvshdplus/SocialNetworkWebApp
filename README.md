@@ -1,5 +1,3 @@
-## project-microblogging-and-streaming-social-network-team14
-
 ## Deployment
 
 [Webapp-Heroku](https://cis557webapp.herokuapp.com/)
